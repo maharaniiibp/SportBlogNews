@@ -1,0 +1,16 @@
+  .footer_copyright {
+    color: rgba(255, 255, 255, 0.852);
+    /* border-top: 1px solid #808dad49; */
+  }
+  .footer_copyright p {
+    font-size: 0.8rem;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .footer_top {
+      display: none;
+    }
+  }
+  
